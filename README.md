@@ -222,3 +222,7 @@ console.log(ids[1] > ids[0]); // true (newer ID is lexicographically greater)
 ## License
 
 MIT
+
+## Author
+
+[Jiten Bansal](https://bansal.io)
