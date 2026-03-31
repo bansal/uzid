@@ -226,3 +226,6 @@ MIT
 ## Author
 
 [Jiten Bansal](https://bansal.io)
+
+## Sponsors
+[PitchWall](https://pitchwall.co)
